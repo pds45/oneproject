@@ -8,4 +8,4 @@ SYNTAX:
 
 - then add export PATH="your-dir:$PATH", where dir is the directory you want
 
--save the .bashrc file
+- save the .bashrc file
